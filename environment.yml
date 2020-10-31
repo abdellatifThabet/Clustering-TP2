@@ -1,12 +1,12 @@
 name: tp2-environment
 
 dependencies:
-  - python=3.7
   - numpy
   - matplotlib
   - pandas
   - scikit-image
   - scikit-learn
+  - opencv-python == 4.4.0.44   
 
 
  
