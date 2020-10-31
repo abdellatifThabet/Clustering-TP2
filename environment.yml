@@ -6,7 +6,6 @@ dependencies:
   - matplotlib
   - pandas
   - scikit-image
-  - opencv
   - scikit-learn
 
 
