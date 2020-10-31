@@ -5,10 +5,8 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
-  - sklearn
   - skimage
-  - opencv-contrib-python==4.4.0.44
-  - scikit-image==0.16.2
+
  
 
 
